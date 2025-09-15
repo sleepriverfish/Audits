@@ -26,3 +26,44 @@
   |Deepbook|Medium|Paid|Hackenproof|
   |Sui|Low|Paid|Hackenproof|
   |Sui|Low|Paid|Hackenproof|
+
+### Private Audits
+  #### Move
+  |Protocol|Description|Firm|
+  |---|----|----|
+  |BlockBolt|Payment|Movebit|
+  |Haedal|Lsd|Movebit|
+  |Msafe|Multi-signature|Movebit|
+  |Amnis|Staking|Movebit|
+  |Supra|Oracle|Movebit|
+  |Cetus Vesting|Vesting|Movebit|
+  |Merkle|Leverage|Movebit|
+  |Seapad|Launchpad|Movebit|
+  |Sudo Finance|Perpetual|Movebit|
+  |Cetus Farming|Farming|Movebit|
+  
+
+  #### Evm
+  |Protocol|Description|Firm|
+  |---|----|----|
+  |EchoDex|Dex|Scalebit|
+  |iZumi|Dex|Scalebit|
+  |Surfi|Dex|Scalebit|
+  |ETHORA|Options|Scalebit|
+
+  #### Solana
+  |Protocol|Description|Firm|
+  |---|----|----|
+
+
+  #### Starknet
+  |Protocol|Description|Firm|
+  |---|----|----|
+  |10k swap|Dex|Scalebit|
+  |StarkSport|Lending && Borrowing|Scalebit|
+
+  #### Ton
+  |Protocol|Description|Firm|
+  |---|----|----|
+
+
