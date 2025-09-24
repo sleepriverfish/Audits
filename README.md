@@ -1,6 +1,8 @@
 # Audits
 
 ## Portfolio
+Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1) or discord(@bauer6009)
+
 
 ### Public Competitions
   |#|Protocol|Rnaking|Link|
@@ -81,6 +83,39 @@
   |47|Aptables|Gaming|Movebit|
   |48|Unihouse|Gaming|Movebit|
   |49|Rooch|Framework|Movebit|
+  |50|Arche Protocol|Lending|Movebit|
+  |51|Redstone Oracles|Oracle|Movebit|
+  |52|KGeN|Game|Movebit|
+  |53|MoveFun|Pump|Movebit|
+  |54|Fjord|Dex|Movebit|
+  |55|Arttoo|IAO|Movebit|
+  |56|Cellana|NFT Marketplace|Movebit|
+  |57|Hyperion|Dex|Movebit|
+  |58|Hyperion|Dex|Movebit|
+  |59|Lombard Finance|Bridge|Movebit|
+  |60|Enjoyoors|Staking|Movebit|
+  |61|Mooner Money|Fund Management|Movebit|
+  |62|IRO|Investment platform|Movebit|
+  |63|Rockee AI|DeFi proxy|Movebit|
+  |64|RouteX|AMM|Movebit|
+  |65|Blizzard|Staking|Movebit|
+  |66|Layerbank|Lending|Movebit|
+  |67|Solido Money|CDP|Movebit|
+  |68|Pinata|Bot Market|Movebit|
+  |69|Movedrome|Dex|Movebit|
+  |70|Auro Finance|CDP|Movebit|
+  |71|TracyAI|CDP|Movebit|
+  |72|EthosX|Prediction Market|Movebit|
+  |73|Realize|Asset Management|Movebit|
+  |74|Meso|Lending|Movebit|
+  |75|PicWe|Bridge|Movebit|
+  |76|Grow Protocol|Yield|Movebit|
+  |77|Solido|Staking|Movebit|
+  |78|Avalon Finance|Lending|Movebit|
+  |79|Nemo Adaptor|Adaptor|Movebit|
+  |80|Deeper Finance|Lending|Movebit|
+  |81|Magma Finance|DLMM|Movebit|
+  |82|xMoney|Bridge|Movebit|
   #### Evm:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
@@ -107,13 +142,27 @@
   |21|Lumoz|ZK|Scalebit|
   |22|BtcFun|Defi|Scalebit|
   |23|B^2 Network|Token|Scalebit|
-  
+  |24|SynStation|Prediction Market|Scalebit|
+  |25|Epipen Dao|Staking|Scalebit|
+  |26|Pieverse|Launchpad|Scalebit|
+  |28|TagAI|Token|Scalebit|
+  |29|XKilo|Token|Scalebit|
+  |30|TracyAI|Token|Scalebit|
+  |31|AiLink|Social|Scalebit|
+  |32|Taker|Bridge|Scalebit|
+  |33|Bayes|Prediction Market|Scalebit|
+  |34|NSR|Lending|Scalebit|
+  |35|Science Fun|LaunchPad|Scalebit|
+  |36|FIR|Token|Scalebit|
+  |37|ShareX|Synthetic Assets|Scalebit|
+  |38|Yes or No|Prediction Market|Scalebit|
   #### Solana:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
   |1|MoonPump|Pump|Scalebit|
   |2|FarmerMeme|Meme|Scalebit|
-
+  |3|Pell Network|Restaking|Scalebit|
+  |4|Moonpump|Pump|Scalebit|
   #### Starknet:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
@@ -131,3 +180,6 @@
   |6|SecondLive-Ton|Defi|TonBit|
   |7|UTonic|Staking|TonBit|
   |8|TOM PUMP|Pump|TonBit|
+  |9|Beetroot Finance|Yield|TonBit|
+  |10|KTon|LST|TonBit|
+  
