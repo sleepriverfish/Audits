@@ -18,7 +18,7 @@ Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1)
 
 
 ### Bug Bounty
-  |#|Protocol|Severity|Status|Plantform|
+  |#|Protocol|Severity|Status|Platform|
    |---|---|----|----|----|
   |1|dorahacks|High|Paid|Immunefi|
   |2|Zenlink|High|Paid|Immunefi|
